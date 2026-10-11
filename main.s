@@ -11,3 +11,5 @@ _start:
 	int 0x10
 
 	jmp $
+
+; times 1048576 db 0
